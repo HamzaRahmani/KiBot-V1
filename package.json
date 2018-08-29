@@ -1,0 +1,17 @@
+{
+  "name": "kibot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza Rahmani",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fortnite": "^4.1.1",
+    "ms": "^2.1.1",
+    "request": "^2.88.0"
+  }
+}
